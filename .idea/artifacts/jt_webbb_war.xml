@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jt-webbb:war">
+    <output-path>$PROJECT_DIR$/jt/jt-webbb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jt-webbb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jt-webbb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jt-webbb:war exploded" />
+    </root>
+  </artifact>
+</component>

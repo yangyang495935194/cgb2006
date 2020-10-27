@@ -1,0 +1,10 @@
+spring:  profiles:    active: dev     #指定当前使用的是生产环境配置    --- #分割线 表示多个环境配置
+server:
+  port: 8080   #定义端口号
+  servlet:    context-path: /spring:  profiles: dev
+
+user:
+  id: 100
+  username: tomcat猫
+  age: 18
+  sex: 男---  server:  port: 8090   #定义端口号  servlet:    context-path: /jtspring:  profiles: prod    user:  id: 100  username: tomcat猫  age: 18  sex: 男

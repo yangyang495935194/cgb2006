@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jt/jt-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/jt-we" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/jt-web" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/jt-webbb" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/src/main/java" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/src/main/resources" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/src/test/java" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_web03" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mybatis02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web03/pom.xml" />
+        <option value="$PROJECT_DIR$/jt/pom.xml" />
+        <option value="$PROJECT_DIR$/jt/jt-web/pom.xml" />
+        <option value="$PROJECT_DIR$/jt/jt-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-jt/pom.xml" />
+        <option value="$PROJECT_DIR$/back/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud1/sp01-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud1/sp02-itemservice/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud1/sp03-userservice/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud1/sp05-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud1/sp06-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/activity01/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud1/sp08-hystrix-dashboard/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
